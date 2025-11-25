@@ -51,5 +51,4 @@ Finalización cuando un jugador alcanza el puntaje establecido.
 
 - Iluminación mediante pointLight().
 
-Mejoras visuales en marcador y elementos 3D.
 ---
