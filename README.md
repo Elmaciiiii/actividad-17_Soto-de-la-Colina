@@ -1,5 +1,5 @@
-🎮 Ta-Te-Tí (2D) + Paddle 3D en Processing
-📌 Introducción
+#🎮 Ta-Te-Tí (2D) + Paddle 3D en Processing
+##📌 Introducción
 
 Este proyecto incluye dos juegos desarrollados en Processing:
 un Ta-Te-Tí en 2D, centrado en la lógica de turnos y detección de victoria,
